@@ -47,8 +47,8 @@ canonifyurls = true
 
 [[menu.nav]]
   identifier = 'archive'
-  name = 'Archive'
-  title = "Archive"
+  name = 'archive'
+  title = "archive"
   url = '/archive/'
   weight = 20
   
