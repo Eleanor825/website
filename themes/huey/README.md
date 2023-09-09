@@ -103,7 +103,7 @@ This is a configuration boilerplate you can use with minimal changes.
 ```
 baseURL = "https://www.yourbaseurl.com"
 languageCode = "en-us"
-title = "Put a site title here"
+title = "Huan Zhang"
 theme = "huey"
 canonifyurls = true
 
