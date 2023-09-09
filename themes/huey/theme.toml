@@ -8,5 +8,5 @@ features = ["responsive", "blog", "archive", "social"]
 min_version = "0.80.0" # Only tested with Hugo 0.80.0
 
 [author]
-  name = "Adam Whitlock"
-  homepage = "https://adamwhitlock.com"
+  name = "Huan Zhang"
+
