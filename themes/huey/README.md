@@ -149,10 +149,10 @@ canonifyurls = true
   weight = 10
 
 [[menu.nav]]
-  identifier = 'archive'
-  name = 'Archive'
-  title = "Archive"
-  url = '/archive/'
+  identifier = 'Publication'
+  name = 'Publication'
+  title = "Publication"
+  url = '/Publication/'
   weight = 20
 
 # Contacts
