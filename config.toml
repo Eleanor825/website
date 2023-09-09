@@ -6,7 +6,7 @@ canonifyurls = true
 
 [params]
   # General site metadata, used in header and other places
-  author = "Author's name goes here"
+  author = "Huan"
   dateFormat = "January 2, 2006"
   description = "This is a description of your site. This is also used in your site header metadata."
   keywords = ""
@@ -51,6 +51,7 @@ canonifyurls = true
   title = "Archive"
   url = '/archive/'
   weight = 20
+  
 
 # Contacts
 
@@ -58,8 +59,8 @@ canonifyurls = true
   identifier = 'linkedin'
   name = 'LinkedIn'
   pre = "<i class='fab fa-linkedin fa-lg'></i>"
-  url = "https://linkedin.com/in/yourlinkedinprofile"
-  weight = 10
+  url = "https://www.linkedin.com/in/huan-zhang-829136185/"
+  weight = 30
 
 [[ menu.social]]
   identifier = 'github'
