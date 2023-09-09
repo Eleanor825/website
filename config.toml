@@ -6,7 +6,7 @@ canonifyurls = true
 
 [params]
   # General site metadata, used in header and other places
-  author = "Huan"
+  author = "Huan. All Rights Reserved."
   dateFormat = "January 2, 2006"
   description = "This is a description of your site. This is also used in your site header metadata."
   keywords = ""
